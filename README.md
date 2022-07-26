@@ -2,6 +2,8 @@
 
 <img src="./Assets/HelloThere.svg"/>
 
+---
+
 ## Contact me, let's talk
 
 <a href="https://francisco-muniz.netlify.app" target="_blank">
