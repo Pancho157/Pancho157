@@ -1,7 +1,7 @@
 <div align="center">
 [<img src="./Assets/Sorting Algorithm.gif"/>](#objetivo-de-la-entrega)
 
-## Contáctame y hablemos
+## Contact me, let's talk
 
 <a href="https://francisco-muniz.netlify.app" target="_blank">
     <img src="./Assets/Portfolio.png" height=70px/>
@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/francisco-muñiz-011010232/" target="_blank">
     <img src="./Assets/LinkedIn.png" height=70px/>
 </a>
+
+---
 
 ## About Me
 
@@ -20,7 +22,7 @@ I'm a young person with pasion for programming who always try to maintain myself
 I'm actually on my way to be a Full Stack Developer :)
 </div>
 
-
+---
 
 <div align="center">
 
@@ -28,7 +30,7 @@ I'm actually on my way to be a Full Stack Developer :)
 
 Languages:
 
-<img src="./Assets/JavaScript.png" height=60px/> <img src="./Assets/HTML.png" height=60px/> <img src="./Assets/CSS.png" height=60px/>
+<img src="./Assets/JavaScript.png" height=60px/> <img src="./Assets/HTML.png" height=60px/> <img src="./Assets/CSS.png" height=63px/> <img src="./Assets/Markdown.png" height=55px/>
 
 Frameworks:
 
@@ -40,6 +42,6 @@ Web Design:
 
 Others:
 
-<img src="./Assets/Git.png" height=60px/> <img src="./Assets/GitHub.png" height=60px/> <img src="./Assets/Markdown.png" height=57px/> <img src="./Assets/Firebase.png" height=60px/> <img src="./Assets/Firebase Auth.png" height=60px/> <img src="./Assets/Firestore.png" height=60px/> <img src="./Assets/Spotify Api.png" height=60px/>
+<img src="./Assets/Git.png" height=60px/> <img src="./Assets/GitHub.png" height=60px/> <img src="./Assets/Firebase.png" height=60px/> <img src="./Assets/Firebase Auth.png" height=60px/> <img src="./Assets/Firestore.png" height=60px/> <img src="./Assets/Spotify Api.png" height=60px/>
 
 </div>
