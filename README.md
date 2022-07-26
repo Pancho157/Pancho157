@@ -42,6 +42,6 @@ Web Design:
 
 Others:
 
-<img src="./Assets/Git.png" height=60px/> <img src="./Assets/GitHub.png" height=60px/> <img src="./Assets/Firebase.png" height=60px/> <img src="./Assets/Firebase Auth.png" height=60px/> <img src="./Assets/Firestore.png" height=60px/> <img src="./Assets/Spotify Api.png" height=60px/>
+<img src="./Assets/Git.png" height=60px/> <img src="./Assets/GitHub.png" height=60px/> <img src="./Assets/Firebase.png" height=60px/> <img src="./Assets/Firebase Auth.png" height=60px/> <img src="./Assets/Firestore.png" height=60px/> <img src="./Assets/Spotify-API.png" height=60px/>
 
 </div>
