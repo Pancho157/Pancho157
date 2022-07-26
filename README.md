@@ -1,5 +1,5 @@
 <div align="center">
-[<img src="./Assets/Sorting Algorithm.gif"/>](#objetivo-de-la-entrega)
+<img src="./Assets/FrontEnd Banner.png"/>
 
 ## Contact me, let's talk
 
