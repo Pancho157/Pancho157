@@ -14,9 +14,13 @@
 
 </div>
 
-I'm a young person with pasion for programming who always try to maintain myself evolving my habilities as a developer and learning new things
+I'm a young person with pasion for programming who always try to maintain myself evolving my habilities as a developer and learning new things.
 
-I am a proactive Junior FrontEnd Developer (on the way to Full Stack) and avid for the resolution of technical problems related to the software
+<div align="center">
+I'm actually on my way to be a Full Stack Developer :)
+</div>
+
+
 
 <div align="center">
 
